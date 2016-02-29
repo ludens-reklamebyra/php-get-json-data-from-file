@@ -1,3 +1,4 @@
+<?php
 // Open and read JSON from file
 function get_JSON($fileString) {
 	$get_file = $fileString; // Get the file
