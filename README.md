@@ -1,2 +1,6 @@
-# php-get-json-data-from-file
-A function to grab data from a JSON-file with PHP
+# PHP Get JSON-data from file
+
+Example:
+
+$data = get_JSON('path-to-file');
+var_dump($data);
