@@ -3,4 +3,5 @@
 Example:
 
 $data = get_JSON('path-to-file');
+
 var_dump($data);
